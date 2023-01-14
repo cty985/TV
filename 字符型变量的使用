@@ -1,0 +1,14 @@
+#include <stdio.h>
+void main()
+{
+	char a,b,c,d,e,f,g,h;
+	a='I';
+	b='l';
+ 	c='o';
+	d='v';
+	e='e';
+	f='y';
+	g='o';
+	h='u';
+	printf("%c%3c%c%c%c%3c%c%c\n",a,b,c,d,e,f,g,h);
+}
